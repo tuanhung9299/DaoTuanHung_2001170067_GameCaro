@@ -1,0 +1,9 @@
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\bin\Debug\DaoTuanHung_Gamecaro.exe.config
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\obj\Debug\DaoTuanHung_Gamecaro.csprojResolveAssemblyReference.cache
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\obj\Debug\DaoTuanHung_Gamecaro.Form1.resources
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\obj\Debug\DaoTuanHung_Gamecaro.Properties.Resources.resources
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\obj\Debug\DaoTuanHung_Gamecaro.csproj.GenerateResource.Cache
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\bin\Debug\DaoTuanHung_Gamecaro.exe
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\bin\Debug\DaoTuanHung_Gamecaro.pdb
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\obj\Debug\DaoTuanHung_Gamecaro.exe
+L:\Winform C#\DaoTuanHung_Gamecaro\DaoTuanHung_Gamecaro\obj\Debug\DaoTuanHung_Gamecaro.pdb
